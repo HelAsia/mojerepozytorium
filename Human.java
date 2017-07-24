@@ -15,6 +15,7 @@ public class Human {
 		this.name = name;
 		this.male = male;
 	}
+	nowa zmiana
 	*/
 	int getAge (int age){
 		return age;
